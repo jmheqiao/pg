@@ -11,74 +11,74 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
-            "key": "黑木耳克隆",
-            "name": "黑木耳克隆",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/225.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "金鹰克隆",
-            "name": "金鹰克隆",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/jy.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "华为吧克隆",
-            "name": "华为吧克隆",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/hwb.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "实验油管",
-            "name": "实验油管",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/yt/yt001.php",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#动物#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
-        },
-        {
-            "key": "采集集合",
-            "name": "采集集合",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net/cjjh.php",
-            "searchable": 0,
-            "changeable": 1
-        },
-        {
-            "key": "实验播放列表",
-            "name": "实验播放列表",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net/ytlb.php",
-            "searchable": 1,
-            "changeable": 1
-        },
-                {
-            "key": "实验直播1",
-            "name": "实验直播1",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net/zh/223.php",
-            "searchable": 0,
-            "changeable": 0
-        },
+					"key": "黑木耳克隆",
+					"name": "黑木耳克隆",
+					"type": 4,
+					"api": "http://zhangqun1818.serv00.net/225.php",
+					"searchable": 1,
+					"quickSearch": 1,
+					"filterable": 0
+			},
+			{
+					"key": "金鹰克隆",
+					"name": "金鹰克隆",
+					"type": 4,
+					"api": "http://zhangqun1818.serv00.net/jy.php",
+					"searchable": 1,
+					"quickSearch": 1,
+					"filterable": 0
+			},
+			{
+					"key": "华为吧克隆",
+					"name": "华为吧克隆",
+					"type": 4,
+					"api": "http://zhangqun1818.serv00.net/hwb.php",
+					"searchable": 1,
+					"quickSearch": 1,
+					"filterable": 0
+			},
+			{
+					"key": "实验油管",
+					"name": "实验油管",
+					"type": 4,
+					"api": "http://zhangqun1818.serv00.net/yt/yt001.php",
+					"searchable": 1,
+					"changeable": 1,
+					"ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#动物#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
+			},
+			{
+					"key": "采集集合",
+					"name": "采集集合",
+					"type": 1,
+					"api": "http://zhangqun1818.serv00.net/cjjh.php",
+					"searchable": 0,
+					"changeable": 1
+			},
+			{
+					"key": "实验播放列表",
+					"name": "实验播放列表",
+					"type": 1,
+					"api": "http://zhangqun1818.serv00.net/ytlb.php",
+					"searchable": 1,
+					"changeable": 1
+			},
+						{
+					"key": "实验直播1",
+					"name": "实验直播1",
+					"type": 1,
+					"api": "http://zhangqun1818.serv00.net/zh/223.php",
+					"searchable": 0,
+					"changeable": 0
+			},
 {
-            "key": "实验直播4",
-            "name": "实验直播4",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/zh/224.php",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "1"
-        },
+					"key": "实验直播4",
+					"name": "实验直播4",
+					"type": 4,
+					"api": "http://zhangqun1818.serv00.net/zh/224.php",
+					"searchable": 0,
+					"changeable": 0,
+					"ext": "1"
+			},
 		{
 			"key":"Youtube",
 			"name":"Youtube",
@@ -706,161 +706,183 @@
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
 		"lives":[
-        {
-          "name": "Mytvsuper",
-          "type":"0",
-          "pass": true,
-          "url": "https://heqiao.serv00.net/mytvfree.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "HKDVB每月维护",
-          "type":"0",
-          "pass": true,
-          "url":"https://live.hkdvb.com/hls/playlist.m3u?token=407713096878645",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "Mytvsuper Github",
-          "type":"0",
-          "pass": true,
-          "url":"https://cf.601417.eu.org/jmheqiao/freetv/main/mytvsuper.m3u?token=heqiao",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "Mytvsuper本地",
-          "type":"0",
-          "pass": true,
-          "url":"http://192.168.2.31:5000/mytvsuper.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "TPTV",
-          "type":"0",
-          "pass": true,
-          "url":"http://192.168.2.31:5000/tptv.m3u?cdn=tptv1",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"          
-        },{
-          "name": "iTV",
-          "type":"0",
-          "pass": true,
-          "url":"http://192.168.2.31:5000/itv_proxy.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"          
-        },{
-          "name": "央视频",
-          "type":"0",
-          "pass": true,
-          "url":"http://192.168.2.31:5000/ysp.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"         
-        },{
-          "name": "Hami Video",
-          "type":"0",
-          "pass": true,
-          "url":"http://192.168.2.31:5000/hami.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"         
-        },{
-          "name": "广东IPTV",
-          "type":"0",
-          "pass": true,
-          "url":"https://cf.601417.eu.org/jmheqiao/freetv/main/gdiptv.m3u?token=heqiao",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"         
-        },{
-          "name": "Beesport(F)",
-          "type":"0",
-          "pass": true,
-          "url":"http://192.168.2.31:5000/beesport.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "四季(F)",
-          "type":"0",
-          "pass": true,
-          "url":"http://192.168.2.31:5000/4gtv.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "油管新闻(F)",
-          "type":"0",
-          "pass": true,
-          "url":"http://192.168.2.31:5000/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "油管休闲(F)",
-          "type":"0",
-          "pass": true,
-          "url":"http://192.168.2.31:5000/youtube/list/PLqrlFPDkNQaw9EDq7EihFhc177AdClYyi",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "香港电台RTHKTV",
-          "type":"0",
-          "pass": true,
-          "url":"https://heqiao.serv00.net/iptv/rthktv.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "TheTV",
-          "type":"0",
-          "pass": true,
-          "url":"https://heqiao.serv00.net/iptv/thetv.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "qingwen07",
-          "type":"0",
-          "pass": true,
-          "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/gang_ao_tai.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "qist",
-          "type":"0",
-          "pass": true,
-          "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/tvboxtv.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "JUNDIE",
-          "type":"0",
-          "pass": true,
-          "url":"http://home.jundie.top:81/ray/tvlive.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "Fanmingming(ipv6)",
-          "type":"0",
-          "pass": true,
-          "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "Yang",
-          "type":"0",
-          "pass": true,
-          "url":"https://tv.iill.top/m3u/Gather",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "Yang MyTV",
-          "type":"0",
-          "pass": true,
-          "url":"https://tv.iill.top/m3u/MyTV",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "YueChan(ipv6)",
-          "type":"0",
-          "pass": true,
-          "url":"https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
+			{
+				"name": "Mytvsuper",
+				"type":"0",
+				"pass": true,
+				"url": "https://heqiao.serv00.net/mytvfree.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "HKDVB每月维护",
+				"type":"0",
+				"pass": true,
+				"url":"https://live.hkdvb.com/hls/playlist.m3u?token=407713096878645",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "Mytvsuper Github",
+				"type":"0",
+				"pass": true,
+				"url":"https://cf.601417.eu.org/jmheqiao/freetv/main/mytvsuper.m3u?token=heqiao",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "Mytvsuper本地",
+				"type":"0",
+				"pass": true,
+				"url":"http://192.168.2.31:5000/mytvsuper.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "TPTV",
+				"type":"0",
+				"pass": true,
+				"url":"http://192.168.2.31:5000/tptv.m3u?cdn=tptv1",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"				
+			},
+			{
+				"name": "iTV",
+				"type":"0",
+				"pass": true,
+				"url":"http://192.168.2.31:5000/itv_proxy.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"				
+			},
+			{
+				"name": "央视频",
+				"type":"0",
+				"pass": true,
+				"url":"http://192.168.2.31:5000/ysp.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"			 
+			},
+			{
+				"name": "Hami Video",
+				"type":"0",
+				"pass": true,
+				"url":"http://192.168.2.31:5000/hami.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"			 
+			},
+			{
+				"name": "广东IPTV",
+				"type":"0",
+				"pass": true,
+				"url":"https://cf.601417.eu.org/jmheqiao/freetv/main/gdiptv.m3u?token=heqiao",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"			 
+			},
+			{
+				"name": "Beesport(F)",
+				"type":"0",
+				"pass": true,
+				"url":"http://192.168.2.31:5000/beesport.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "四季(F)",
+				"type":"0",
+				"pass": true,
+				"url":"http://192.168.2.31:5000/4gtv.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "油管新闻(F)",
+				"type":"0",
+				"pass": true,
+				"url":"http://192.168.2.31:5000/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "油管休闲(F)",
+				"type":"0",
+				"pass": true,
+				"url":"http://192.168.2.31:5000/youtube/list/PLqrlFPDkNQaw9EDq7EihFhc177AdClYyi",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "香港电台RTHKTV",
+				"type":"0",
+				"pass": true,
+				"url":"https://heqiao.serv00.net/iptv/rthktv.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "TheTV",
+				"type":"0",
+				"pass": true,
+				"url":"https://heqiao.serv00.net/iptv/thetv.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "qingwen07",
+				"type":"0",
+				"pass": true,
+				"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/gang_ao_tai.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "qist",
+				"type":"0",
+				"pass": true,
+				"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/tvboxtv.txt",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "JUNDIE",
+				"type":"0",
+				"pass": true,
+				"url":"http://home.jundie.top:81/ray/tvlive.txt",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "Fanmingming(ipv6)",
+				"type":"0",
+				"pass": true,
+				"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "Yang",
+				"type":"0",
+				"pass": true,
+				"url":"https://tv.iill.top/m3u/Gather",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "Yang MyTV",
+				"type":"0",
+				"pass": true,
+				"url":"https://tv.iill.top/m3u/MyTV",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "YueChan(ipv6)",
+				"type":"0",
+				"pass": true,
+				"url":"https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",		 
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
 				"name": "zouming.ipv6",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/http://ww.zouming.com/ipv6.txt",
