@@ -11,6 +11,7 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
+        {
             "key": "黑木耳克隆",
             "name": "黑木耳克隆",
             "type": 4,
