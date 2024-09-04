@@ -11,75 +11,76 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
-		{
-			 "key": "黑木耳克隆",
-			 "name": "黑木耳克隆",
-			 "type": 4,
-			 "api": "https://heqiao.serv00.net/php/225.php",
-			 "searchable": 1,
-			 "quickSearch": 1,
-			 "filterable": 0
-		},
-		{
-			 "key": "金鹰克隆",
-			 "name": "金鹰克隆",
-			 "type": 4,
-			 "api": "https://heqiao.serv00.net/php/jy.php",
-			 "searchable": 1,
-			 "quickSearch": 1,
-			 "filterable": 0
-		},
-		{
-			 "key": "华为吧克隆",
-			 "name": "华为吧克隆",
-			 "type": 4,
-			 "api": "https://heqiao.serv00.net/php/hwb.php",
-			 "searchable": 1,
-			 "quickSearch": 1,
-			 "filterable": 0
-		},
-		{
-			 "key": "实验油管",
-			 "name": "实验油管",
-			 "type": 4,
-			 "api": "http://zhangqun66.xyz/yt/yt001.php",
-			 "searchable": 1,
-			 "changeable": 1,
-			 "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#动物#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
-		},
-		{
-			 "key": "采集集合",
-			 "name": "采集集合",
-			 "type": 1,
-			 "api": "https://heqiao.serv00.net/php/cjjh.php",
-			 "searchable": 0,
-			 "changeable": 1
-		},
-		{
-			 "key": "实验播放列表",
-			 "name": "实验播放列表",
-			 "type": 1,
-			 "api": "https://heqiao.serv00.net/php/ytlb.php",
-			 "searchable": 1,
-			 "changeable": 1
-		},
-			     {
-			 "key": "实验直播1",
-			 "name": "实验直播1",
-			 "type": 1,
-			 "api": "https://heqiao.serv00.net/php/223.php",
-			 "searchable": 0,
-			 "changeable": 0
-		},
 {
-			 "key": "实验直播4",
-			 "name": "实验直播4",
-			 "type": 4,
-			 "api": "https://heqiao.serv00.net/php/224.php",
-			 "searchable": 0,
-			 "changeable": 0,
-			 "ext": "1"
-		},
+            "key": "黑木耳克隆",
+            "name": "黑木耳克隆",
+            "type": 4,
+            "api": "http://zhangqun66.xyz/225.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "金鹰克隆",
+            "name": "金鹰克隆",
+            "type": 4,
+            "api": "http://zhangqun66.xyz/jy.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "华为吧克隆",
+            "name": "华为吧克隆",
+            "type": 4,
+            "api": "http://zhangqun66.xyz/hwb.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "索尼克隆",
+            "name": "索尼克隆",
+            "type": 4,
+            "api": "http://zhangqun66.xyz/sn.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "服务器油管",
+            "name": "服务器油管",
+            "type": 4,
+            "api": "http://zhangqun66.xyz/yt/yt001.php",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#动物#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
+        },
+        {
+            "key": "采集集合",
+            "name": "采集集合",
+            "type": 1,
+            "api": "http://zhangqun66.xyz/cjjh.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "油管播放列表",
+            "name": "油管播放列表",
+            "type": 4,
+            "api": "http://zhangqun66.xyz/ytlb.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "直播转点播",
+            "name": "直播转点播",
+            "type": 4,
+            "api": "http://zhangqun66.xyz/zh/2241.php",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "1,2,3,4"
+        },
 		{
 			"key":"Youtube",
 			"name":"Youtube",
@@ -718,7 +719,7 @@
 			{
 				"name": "HKDVB每月维护",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/p/0/proxy/https://live.hkdvb.com/hls/playlist.m3u?token=407713096878645",
+				"url": "https://live.hkdvb.com/hls/playlist.m3u?token=407713096878645",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -726,7 +727,7 @@
 			{
 				"name": "香港(F)",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/p/0/proxy/https://www.stream-link.org/stream-link.m3u",
+				"url": "https://www.stream-link.org/stream-link.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
