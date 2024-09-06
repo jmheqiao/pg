@@ -725,7 +725,7 @@
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "HKanime",
+				"name": "HKanime(F)",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://live.hkdvb.com/hls/playlist.m3u?token=407713096878645",
 				"ua": "okhttp/3.15",
@@ -735,7 +735,7 @@
 			{
 				"name": "Stream-link(F)",
 				"type": 0,
-				"url": "https://www.stream-link.org/stream-link.m3u",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://www.stream-link.org/stream-link.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -783,7 +783,7 @@
 			{
 				"name": "四季(F)",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/p/0/proxy/https://iptv-dx6a.onrender.com/4gtv.m3u",
+				"url": "https://iptv-dx6a.onrender.com/4gtv.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
