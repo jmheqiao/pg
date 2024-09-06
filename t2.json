@@ -743,7 +743,7 @@
 			{
 				"name": "Mytvsuper本地",
 				"type": 0,
-				"url": "https://iptv-dx6a.onrender.com/mytvsuper.m3u",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://iptv-dx6a.onrender.com/mytvsuper.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -751,7 +751,7 @@
 			{
 				"name": "TPTV",
 				"type": 0,
-				"url": "https://iptv-dx6a.onrender.com/tptv_proxy.m3u",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://iptv-dx6a.onrender.com/tptv_proxy.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"				
@@ -759,7 +759,7 @@
 			{
 				"name": "iTV",
 				"type": 0,
-				"url": "https://iptv-dx6a.onrender.com/itv_proxy.m3u",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://iptv-dx6a.onrender.com/itv_proxy.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"				
@@ -775,7 +775,7 @@
 			{
 				"name": "Beesport(F)",
 				"type": 0,
-				"url": "https://iptv-dx6a.onrender.com/beesport.m3u",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://iptv-dx6a.onrender.com/beesport.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -783,7 +783,7 @@
 			{
 				"name": "四季(F)",
 				"type": 0,
-				"url": "https://iptv-dx6a.onrender.com/4gtv.m3u",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://iptv-dx6a.onrender.com/4gtv.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -791,7 +791,7 @@
 			{
 				"name": "油管新闻(F)",
 				"type": 0,
-				"url": "https://iptv-dx6a.onrender.com/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://iptv-dx6a.onrender.com/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -799,7 +799,7 @@
 			{
 				"name": "油管休闲(F)",
 				"type": 0,
-				"url": "https://iptv-dx6a.onrender.com/youtube/list/PLqrlFPDkNQaw9EDq7EihFhc177AdClYyi",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://iptv-dx6a.onrender.com/youtube/list/PLqrlFPDkNQaw9EDq7EihFhc177AdClYyi",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
