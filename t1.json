@@ -74,7 +74,7 @@
         },
         {
             "key": "直播转点播",
-            "name": "直播转点播",
+            "name": "直播转点播1",
             "type": 4,
             "api": "http://zhangqun66.xyz/zh/2241.php",
             "searchable": 0,
