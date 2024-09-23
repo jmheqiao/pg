@@ -11,7 +11,12 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
-{
+
+{"key": "Net_emby", "name": "🍏 Net┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://net.creativeinfo.org:8096","username":"ntest","password":"ntest123","thread": 0,"proxy":""},"changeable": 1},
+{"key": "San_emby", "name": "🍏 San┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://san.creativeinfo.org:8096","username":"san","password":"san123","thread": 0,"proxy":""},"changeable": 1},
+{"key": "Jav_emby", "name": "🍏 Jav┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://jav.creativeinfo.org:8096","username":"atest","password":"atest123","thread": 0,"proxy":""},"changeable": 1},
+
+        {
             "key": "黑木耳克隆",
             "name": "黑木耳克隆",
             "type": 4,
