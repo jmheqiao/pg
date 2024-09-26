@@ -16,7 +16,16 @@
 {"key": "San_emby", "name": "🍏 San┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://san.creativeinfo.org:8096","username":"san","password":"san123","thread": 0,"proxy":""},"changeable": 1},
 {"key": "Jav_emby", "name": "🍏 Jav┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://jav.creativeinfo.org:8096","username":"atest","password":"atest123","thread": 0,"proxy":""},"changeable": 1},
 {"key": "ISO_emby", "name": "🍏 ISO┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://iso.creativeinfo.org:8096","username":"itest","password":"itest123","thread": 0,"proxy":""},"changeable": 1},
-
+         {
+                       "key":"drpy_js_Alist",
+                       "name":"💓精选 | alist💓",
+                       "type":3,
+                       "api":"https://p01--xy2023a--yp49qlrxv5xm.code.run/tvbox/libs/alist.min.js",
+                       "searchable":1,
+                       "filterable":1,
+                       "changeable":0,
+                       "ext":"https://p01--xy2023a--yp49qlrxv5xm.code.run/tvbox/json/alist_ext.json;200;video"
+        },
         {
             "key": "黑木耳克隆",
             "name": "黑木耳克隆",
