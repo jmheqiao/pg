@@ -16,7 +16,7 @@
 {"key": "San_emby", "name": "🍏 San┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://san.creativeinfo.org:8096","username":"san","password":"san123","thread": 0,"proxy":""},"changeable": 1},
 {"key": "Jav_emby", "name": "🍏 Jav┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://jav.creativeinfo.org:8096","username":"atest","password":"atest123","thread": 0,"proxy":""},"changeable": 1},
 {"key": "ISO_emby", "name": "🍏 ISO┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://iso.creativeinfo.org:8096","username":"itest","password":"itest123","thread": 0,"proxy":""},"changeable": 1},
-{"key": "ISO_emby", "name": "🍏 ISO┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://hka-emby.aliz.work:8097","username":"heqiao","password":"601417","thread": 0,"proxy":""},"changeable": 1},
+{"key": "HKA_emby", "name": "🍏 HKA┃Emby","type": 3, "api":"./lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://hka-emby.aliz.work:8097","username":"heqiao","password":"601417","thread": 0,"proxy":""},"changeable": 1},
 
 		{"key":"115Share1","name":"115云盘分享1","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":120, "ext":"./lib/tokenm.json$$$./lib/115share1.txt$$$db$$$1",
 			"style": {
