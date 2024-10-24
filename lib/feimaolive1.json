@@ -9,5 +9,5 @@
 	{"name":"肥羊YY轮播","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/yylunbo.m3u"},
 	{"name":"范明明IPV6","url":"http://127.0.0.1:10079/c/3600/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
 	{"name":"YueChan(ipv6)","url":"http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
-	{"name":"Yang","url":"http://127.0.0.1:10079/c/3600/proxy/https://tv.iill.top/m3u/Gather"},
+	{"name":"Yang","url":"http://127.0.0.1:10079/c/3600/proxy/https://tv.iill.top/m3u/Gather"}
 ]
