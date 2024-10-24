@@ -1,10 +1,13 @@
 [
-{"name":"Jude直播迷","url":"https://judy.567852.xyz/live/playlist.m3u?token=407713096897213"},
-{"name":"范明明OfficalSite","url":"https://live.fanmingming.com/tv/m3u/global.m3u"},
-{"name":"范明明GitHub","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
-{"name":"范明明IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
-{"name":"YueChan(ipv6)","url":"https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
-{"name":"iTV","url":"https://iptv-dx6a.onrender.com/itv_proxy.m3u"},
-{"name":"TPTV","url":"https://iptv-dx6a.onrender.com/tptv_proxy.m3u"},
-{"name":"四季","url":"https://iptv-dx6a.onrender.com/4gtv.m3u"}
+	{"name":"HKdvb","url":"https://live.hkdvb.com/hls/playlist.m3u?token=407713096862187"},
+	{"name":"肥羊国内直播","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tv.m3u"},
+	{"name":"肥羊TPTV","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tptv.m3u"},
+	{"name":"肥羊广东联通","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/gdcucc.m3u"},
+	{"name":"肥羊B站直播","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/bililive.m3u"},
+	{"name":"肥羊虎牙一起看","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/huyayqk.m3u"},
+	{"name":"肥羊斗鱼一起看","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/douyuyqk.m3u"},
+	{"name":"肥羊YY轮播","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/yylunbo.m3u"},
+	{"name":"范明明IPV6","url":"http://127.0.0.1:10079/c/3600/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
+	{"name":"YueChan(ipv6)","url":"http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
+	{"name":"Yang","url":"http://127.0.0.1:10079/c/3600/proxy/https://tv.iill.top/m3u/Gather"},
 ]
