@@ -865,7 +865,7 @@
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "HKTV",
+				"name": "AKTV",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/http://aktv.top/live.m3u",
 				"ua": "okhttp/3.15",
@@ -956,6 +956,22 @@
 				"name": "YueChan(ipv6)",
 				"type": 0,
 				"url": "https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "SuperB",
+				"type": 0,
+				"url": "https://heqiao.serv00.net/php/superbxxxxx.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "Mtvbsuper",
+				"type": 0,
+				"url": "https://anbox118.serv00.net/mytvbplus.php",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
